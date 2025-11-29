@@ -21,3 +21,26 @@ date
 cal
 whoami
 
+2. File & Directory Management (20 Commands)
+touch file
+mkdir dir
+mkdir -p dir/sub
+rmdir dir
+rm file
+rm -rf dir
+cp file1 file2
+cp -r dir1 dir2
+mv file1 file2
+mv oldname newname
+ln file link
+ln -s file symlink
+stat file
+file file
+cat file
+tac file
+nl file
+head file
+tail file
+tail -f file
+
+
