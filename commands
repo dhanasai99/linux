@@ -1,1 +1,23 @@
+1. Basic Navigation (20 Commands)
+pwd
+ls
+ls -l
+ls -a
+ls -lh
+ls -ltr
+cd
+cd ..
+cd /
+cd ~
+cd -
+clear
+history
+which command
+whereis command
+man command
+uptime
+hostname
+date
+cal
+whoami
 
